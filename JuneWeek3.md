@@ -1,4 +1,4 @@
-# <Month> Week <number>
+# June Week 3
 
 ## Todo
 - This week was not that busy since we just continued the Android tutorial using Android Studio. I had to finish custom listview using the base adapter for me to proceed with the authentication of the user with the help of Volley. The succeeding tasks were to implement the Facebook login, and Google Maps API. 
